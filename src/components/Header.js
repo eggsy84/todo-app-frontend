@@ -11,7 +11,8 @@ class Header extends React.Component {
 const styles = {
     header : {
         color: "blue",
-        textDecoration: "underline"
+        textDecoration: "underline",
+        textAlign: "center"
     }
 };
 
